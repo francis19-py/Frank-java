@@ -15,6 +15,9 @@ public class add{
 
         System.out.print("The sum of the two  no. is: " + sum);
         System.out.println();
+        System.out.println("the calculation is complete");
+        System.out.println("the addition is compelete");
+        System.out.println(" ");
         input.close();
 
     }
