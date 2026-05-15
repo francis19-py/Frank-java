@@ -1,18 +1,14 @@
-class car{
-    String brand;
-    int speed;
-
-    void drive(){
-        System.out.println(brand + " is moving at" + speed + " km/h");
-    }
-}
+import java.util.Scanner
 
 public class object{
-    public static void main(String[] args){
-        car c = new car();
-        c.brand = "toyota";
-        c.speed =100;
+    String book;
 
-        c.drive();
-    }
+     public void author () {
+         System.out.print("The author is richard");
+     }
+}
+public static void main () {
+    book = b1;
+    b1.author();
+    System.out.print(b1.author);
 }
